@@ -1,8 +1,6 @@
 #include "Arduino_LED_Matrix.h"
 
 #define SW     A2
-#define Y_AXIS A1
-#define X_AXIS A0
 
 uint8_t DEATH_SCREEN[8][12] = {
   { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
